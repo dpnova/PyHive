@@ -21,7 +21,7 @@ import sasl
 import sys
 import thrift.protocol.TBinaryProtocol
 import thrift.transport.TSocket
-import thrift_sasl
+import cloudera.thrift_sasl
 
 # PEP 249 module globals
 apilevel = '2.0'
